@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+
+}
+table.a{
+    border: 1px solid;
+    padding: 5px;
+    margin: 5px;
+    width: 700px;
+    height: 350px;
+    float: left;
+}
+td{
+
+    float: left;
+}
+img{
+    float: right;
+}
+nav.b{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+a:hover, a:active{
+    background-color: #C70039;
+}
+div{
+
+}
